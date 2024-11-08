@@ -1,0 +1,14 @@
+{
+    "server": {
+        "host": "HOST-NAME"
+    },
+    "database": {
+        "name": "DATABASE-NAME"
+    },
+    "table": {
+        "name": "TABLE-NAME"
+    },
+    "encryption": {
+        "key": "ENCRYPTION-KEY"
+    }
+}
